@@ -3,10 +3,8 @@
     Author     : Амалия Волощук
 */
 
-body{
-  background-image:url(images/images.jpg);
-  background-repeat:no-repeat;
-  background-color:#243CED;
-  background-position:50% 50%;
-  color:yellow;
+p#sn, p#so, p#si{
+  font-family: Verdana, sans-serif;
 }
+p#so{
+  font-variant:small-caps;
