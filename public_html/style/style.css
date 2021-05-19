@@ -3,8 +3,6 @@
     Author     : Амалия Волощук
 */
 
-p#sn, p#so, p#si{
-  font-family: Verdana, sans-serif;
+p{
+  text-indent:1.2em;
 }
-p#so{
-  font-variant:small-caps;
