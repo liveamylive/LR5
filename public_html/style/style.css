@@ -3,8 +3,10 @@
     Author     : Амалия Волощук
 */
 
-body {
-  background-image:url(picture.gif);
+body{
+  background-image:url(images/images.jpg);
+  background-repeat:no-repeat;
   background-color:#243CED;
+  background-position:10% 30%;
   color:yellow;
 }
