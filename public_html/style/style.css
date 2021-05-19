@@ -3,12 +3,8 @@
     Author     : Амалия Волощук
 */
 
-p{
-  line-height:200%
-}
-p#su{
-  word-spacing:10px;
-}
-p#sl{
-  letter-spacing:5px;
+body {
+  background-image:url(picture.gif);
+  background-color:#243CED;
+  color:yellow;
 }
