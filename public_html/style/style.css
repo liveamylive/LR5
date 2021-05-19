@@ -3,12 +3,12 @@
     Author     : Амалия Волощук
 */
 
-p#sc{
-  text-transform:capitalize;
+p{
+  line-height:200%
 }
 p#su{
-  text-transform:uppercase;
+  word-spacing:10px;
 }
 p#sl{
-  text-transform:lowercase;
+  letter-spacing:5px;
 }
